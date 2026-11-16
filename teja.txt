@@ -1,5 +1,0 @@
-name:teju
-class:btech
-college:cvr college of engineering
-im a mad mad engineering
-good byee
