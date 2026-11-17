@@ -1,0 +1,7 @@
+White Box Testing:
+It is a software testing technique in which we test the internal code
+Some Techniques included are:
+Statement coverage
+Branch coverage
+Condition coverage
+loop testing
